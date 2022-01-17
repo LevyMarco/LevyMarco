@@ -21,7 +21,7 @@
 )](https://www.twitch.tv/projevy)
 
 
-## Linguagens do dia-a-dia:
+## Languages 
 
 <div style="display: inline_block"><br/>
  <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
