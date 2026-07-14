@@ -83,12 +83,9 @@ mindset: Build useful things.
 ### Core
 
 <img height="45" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
-<img height="45" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI">
 <img height="45" src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP">
 <img height="45" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java">
 <img height="45" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
-<img height="45" src="https://skillicons.dev/icons?i=react" alt="React" title="React">
-<img height="45" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js">
 <img height="45" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
 
 ### Data & Infrastructure
